@@ -2,7 +2,7 @@
 Electiva 1 Software
 
 ## Integrantes del Equipo
--Johnatan Duvan Bedoya Gomez 
+-Johnatan Duvan Bedoya Gomez https://github.com/JohnatanZr/Electiva1JohnatanBedoya.git
 
 ## Tecnología en que se Desarrolló
 - React JS
